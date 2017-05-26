@@ -11,6 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Hello World8" );
         System.out.println( "Hello World9" );
+        System.out.println( "Hello World10" );
     }
 
     public static void print(String str){
