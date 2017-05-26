@@ -6,6 +6,7 @@ package com.jd.test.git.jd;
 public class AppUtils {
 
     public static String getString(String str){
+
         return  str + "aaaaaaaa";
     }
 }
