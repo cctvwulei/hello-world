@@ -23,7 +23,7 @@ public class App
         }
     }
 
-    public String sayhello(){
-
+    public String sayhello(String name){
+         return "hello" + name;
     }
 }
